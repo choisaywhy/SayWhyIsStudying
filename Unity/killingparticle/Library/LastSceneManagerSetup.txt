@@ -2,3 +2,6 @@ sceneSetups:
 - path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/Sparkling_Pixie_Dust/Sparkling_Pixie_Dust.unity
+  isLoaded: 1
+  isActive: 0
